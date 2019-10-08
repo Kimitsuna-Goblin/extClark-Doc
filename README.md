@@ -33,9 +33,9 @@ The directory for publiched documents like the [specification](https://github.co
 
 ### 品質保証 - Quality Assurance
 
-[不具合報告一覧](https://github.com/Kimitsuna-Goblin/extClark-Doc/blob/master/%E5%93%81%E8%B3%AA%E4%BF%9D%E8%A8%BC/%E5%95%8F%E9%A1%8C%E7%82%B9%E4%B8%80%E8%A6%A7.pdf)等の置き場です。
+不具合報告一覧等の置き場です。
 <BR>
-The directory for the [bug report](https://github.com/Kimitsuna-Goblin/extClark-Doc/blob/master/%E5%93%81%E8%B3%AA%E4%BF%9D%E8%A8%BC/%E5%95%8F%E9%A1%8C%E7%82%B9%E4%B8%80%E8%A6%A7.pdf) and so on.
+The directory for the bug report and so on.
 
 ## ドキュメントへの貢献 - Contribution
 
