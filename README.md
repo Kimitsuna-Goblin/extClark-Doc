@@ -47,6 +47,8 @@ then update it, create printable PDF file, and commit both the original file and
 
 ----
 
+### 注意
+
 ドキュメントを改変してリリースする場合、以下のルールを遵守してください。
 
 + ドキュメントのバージョン番号は、メジャー番号とマイナー番号は[ツール本体](https://github.com/Kimitsuna-Goblin/extClark/)の番号と一致させてください。
@@ -71,6 +73,9 @@ then update it, create printable PDF file, and commit both the original file and
 以上のルールから外れたドキュメントファイルをコミットしてしまった場合は、可及的速やかに修正してください。
 
 ----
+
+### Remark
+
 When you update the document and release it, please observe following rules.
 
 * You must set the main version number and sub version number of the document as same as ones of the [tool](https://github.com/Kimitsuna-Goblin/extClark/).
