@@ -39,10 +39,10 @@ The directory for the fixed bugs list and so on.
 <BR>
 <BR>
 この[ツール](https://github.com/Kimitsuna-Goblin/extClark/)の品質は薬物医療の信頼性に影響する可能性があります。
-[ツール](https://github.com/Kimitsuna-Goblin/extClark/)の開発者は過去の不具合を確認し、デグレードを起こさないように注意して開発してください。
+[ツール](https://github.com/Kimitsuna-Goblin/extClark/)の開発者は過去の解決済みの不具合を確認し、デグレードを起こさないように注意して開発してください。
 <BR>
 The quality of this [tool](https://github.com/Kimitsuna-Goblin/extClark/) would affect the reliability of medical care. 
-Each of all developers of the [tool](https://github.com/Kimitsuna-Goblin/extClark/) should check fixed bugs and develop with care not to cause degradations.
+Each of all developers of the [tool](https://github.com/Kimitsuna-Goblin/extClark/) should check past fixed bugs and develop with care not to cause degradations.
 
 ## ドキュメントへの貢献 - Contribution
 
