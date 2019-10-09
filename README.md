@@ -12,10 +12,10 @@ Here documents (specification, bug report and etc.) about the [extClark](https:/
 <BR>
 <BR>
 [ツール本体のリポジトリ](https://github.com/Kimitsuna-Goblin/extClark/)と異なる、[ドキュメント専用のリポジトリ](https://github.com/Kimitsuna-Goblin/extClark-Doc/)を作成している理由は、ソースとドキュメントのライセンス管理を分けることで、
-ソースコードの改変をより柔軟にできるようにするためです。
+ドキュメントの品質を保ち、なおかつソースコードの改変をより柔軟にできるようにするためです。
 <BR>
 The reason why the [repository for the documents](https://github.com/Kimitsuna-Goblin/extClark-Doc/) is separated from the [main repository](https://github.com/Kimitsuna-Goblin/extClark/) of the tool
-is to separate the licenses for the sources and for the documents and to make more flexible to update sources.
+is to separate the licenses for the sources and for the documents in order to keep qualities of the documents and to make more flexible to update sources.
 
 ## 内容構成 - Contents
 
@@ -33,9 +33,9 @@ The directory for publiched documents like the [specification](https://github.co
 
 ### 品質保証 - Quality Assurance
 
-[不具合報告一覧](https://github.com/Kimitsuna-Goblin/extClark-Doc/blob/master/%E5%93%81%E8%B3%AA%E4%BF%9D%E8%A8%BC/%E5%95%8F%E9%A1%8C%E7%82%B9%E4%B8%80%E8%A6%A7.pdf)等の置き場です。
+不具合報告一覧等の置き場です。
 <BR>
-The directory for the [bug report](https://github.com/Kimitsuna-Goblin/extClark-Doc/blob/master/%E5%93%81%E8%B3%AA%E4%BF%9D%E8%A8%BC/%E5%95%8F%E9%A1%8C%E7%82%B9%E4%B8%80%E8%A6%A7.pdf) and so on.
+The directory for the bug report and so on.
 
 ## ドキュメントへの貢献 - Contribution
 
