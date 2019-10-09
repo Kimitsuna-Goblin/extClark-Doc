@@ -6,9 +6,9 @@ This repository contanints published documents about the [extClark](https://gith
 
 ## 説明 - Description
 
-ここでは、[小児薬用量計算ツール（拡張Clark式）](https://github.com/Kimitsuna-Goblin/extClark/) のドキュメント(仕様書、不具合報告等)を公開しています。
+ここでは、[小児薬用量計算ツール（拡張Clark式）](https://github.com/Kimitsuna-Goblin/extClark/) のドキュメント(仕様書、解決済み不具合一覧等)を公開しています。
 <BR>
-Here documents (specification, bug report and etc.) about the [extClark](https://github.com/Kimitsuna-Goblin/extClark/) tool are published.
+Here documents (specification, fixed bugs list and etc.) about the [extClark](https://github.com/Kimitsuna-Goblin/extClark/) tool are published.
 <BR>
 <BR>
 [ツール本体のリポジトリ](https://github.com/Kimitsuna-Goblin/extClark/)と異なる、[ドキュメント専用のリポジトリ](https://github.com/Kimitsuna-Goblin/extClark-Doc/)を作成している理由は、ソースとドキュメントのライセンス管理を分けることで、
@@ -33,9 +33,14 @@ The directory for publiched documents like the [specification](https://github.co
 
 ### 品質保証 - Quality Assurance
 
-不具合報告一覧等の置き場です。
+解決済みの不具合一覧等の置き場です。
 <BR>
-The directory for the bug report and so on.
+The directory for the fixed bugs list and so on.
+<BR>
+<BR>
+ツールの開発者は過去の不具合を確認し、デグレードを起こさないように注意して開発してください。
+<BR>
+Each of all developers of the [tool](https://github.com/Kimitsuna-Goblin/extClark/) should check fixed bugs and develop with care not to cause degradations.
 
 ## ドキュメントへの貢献 - Contribution
 
