@@ -2,7 +2,7 @@
 
 [小児薬用量計算ツール（拡張Clark式）](https://github.com/Kimitsuna-Goblin/extClark/) に関する公開ドキュメント類です。
 <BR>
-This repository contanints published documents about the [extClark](https://github.com/Kimitsuna-Goblin/extClark/) tool.
+This repository contains published documents about the [extClark](https://github.com/Kimitsuna-Goblin/extClark/) tool.
 
 ## 説明 - Description
 
@@ -107,7 +107,7 @@ you can ignore this rule.
 
 * Using footer and so on, show the "CC BY-SA" icon in the each of all pages of the document.
 
-If you commit a document file out of rules above, correct it as soon as possible.
+If you have commited a document file which is out of rules above, correct it as soon as possible.
 
 ## ライセンス - Licence
 
