@@ -1,4 +1,4 @@
-# 小児薬用量計算ツール（拡張Clark式）関連ドキュメント
+# 小児薬用量計算ツール（拡張Clark式）関連ドキュメント - extClark-Doc
 
 [小児薬用量計算ツール（拡張Clark式）](https://github.com/Kimitsuna-Goblin/extClark/) に関する公開ドキュメント類です。
 <BR>
