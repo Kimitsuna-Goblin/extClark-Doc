@@ -8,7 +8,7 @@ This repository contains published documents about the [extClark](https://github
 
 ここでは、[小児薬用量計算ツール（拡張Clark式）](https://github.com/Kimitsuna-Goblin/extClark/) のドキュメント(仕様書、解決済み不具合一覧等)を公開しています。
 <BR>
-Here documents (specification, fixed bugs list and etc.) about the [extClark](https://github.com/Kimitsuna-Goblin/extClark/) tool are published.
+Here documents (specifications, fixed bugs lists and etc.) about the [extClark](https://github.com/Kimitsuna-Goblin/extClark/) tool are published.
 <BR>
 <BR>
 [ツール本体のリポジトリ](https://github.com/Kimitsuna-Goblin/extClark/)と異なる、[ドキュメント専用のリポジトリ](https://github.com/Kimitsuna-Goblin/extClark-Doc/)を作成している理由は、ソースとドキュメントのライセンス管理を分けることで、
@@ -35,13 +35,13 @@ The directory for publiched documents like the [specification](https://github.co
 
 解決済みの不具合一覧等の置き場です。
 <BR>
-The directory for the fixed bugs list and so on.
+The directory for the fixed bugs lists and so on.
 <BR>
 <BR>
 この[ツール](https://github.com/Kimitsuna-Goblin/extClark/)の品質は薬物医療の信頼性に影響する可能性があります。
 [ツール](https://github.com/Kimitsuna-Goblin/extClark/)の開発者は過去の解決済みの不具合を確認し、デグレードを起こさないように注意して開発してください。
 <BR>
-The quality of this [tool](https://github.com/Kimitsuna-Goblin/extClark/) would affect the reliability of medical care. 
+The quality of this [tool](https://github.com/Kimitsuna-Goblin/extClark/) would affect the reliability in medical care. 
 Each of all developers of the [tool](https://github.com/Kimitsuna-Goblin/extClark/) should check past fixed bugs and develop with care not to cause degradations.
 
 ## ドキュメントへの貢献 - Contribution
@@ -67,8 +67,8 @@ then update it, create printable PDF file, and commit both the original file and
 
 + ドキュメントの表紙または先頭に、ドキュメントの最終改変日付を記載してください。
 
-+ ドキュメントの表紙に改変前の著作者の記名がある場合は、その次に改変者の記名を追記してください。
-ただし、既に自分の名前が表紙に記載されていれば、新たにそこに追記する必要はありません。
++ ドキュメントの表紙または先頭に著作者名が書かれている場合は、そこに改変者であるあなたの名前を追記してください。
+ただし、既にあなたの名前が書かれていれば、新たにそこに追記する必要はありません。
 
 + ドキュメントの著作権表示の欄に、改変者の著作権表示を記載してください。
 なお、改変前の著作権表示は削除せず、改変者の著作権表示を追記する形で記載してください。
@@ -95,7 +95,7 @@ And you must not write the patch number of the document itself on any page of th
 
 * Write the last update date on the top page or the top line of the document.
 
-* If there is/are the name(s) of creator or changer on the top page of the document, add your name there.
+* If there is/are the author name(s) on the top page or the top line of the document, add your name there.
 If your name has been already written there, don't add there again.
 
 * Add your copyright into the copyright list of the document.
