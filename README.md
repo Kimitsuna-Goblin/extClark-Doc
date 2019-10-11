@@ -73,7 +73,7 @@ then update it, create printable PDF file, and commit both the original file and
 + ドキュメントの著作権表示の欄に、改変者の著作権表示を記載してください。
 なお、改変前の著作権表示は削除せず、改変者の著作権表示を追記する形で記載してください。
 既に著作権表示をしたことがある場合でも、直前の改変者が自分自身でない場合は、追記してください。
-ただし、全く新しいドキュメントを[リポジトリ](https://github.com/Kimitsuna-Goblin/extClark-Doc/)に追加する場合は、この限りではありません。
+全く新しいドキュメントを[リポジトリ](https://github.com/Kimitsuna-Goblin/extClark-Doc/)に追加する場合は、ドキュメントにあなたの著作権表示を記載してください。
 
 + フッターなどを利用して、印刷可能なPDFファイルのすべてのページに「CC BY-SA」のアイコン表示を入れてください。
 
@@ -102,8 +102,8 @@ If your name has been already written there, don't add there again.
 You must not delete the copyright(s) already written in the list.
 Although you have witten your copyright into the list once,
 if the last copyright isn't yours, add your copyright again next of it.
-But when you create a brand-new document and add it into the [repository](https://github.com/Kimitsuna-Goblin/extClark-Doc/),
-you can ignore this rule.
+When you create a brand-new document and add it into the [repository](https://github.com/Kimitsuna-Goblin/extClark-Doc/),
+please write your copyright on the document.
 
 * Using footer and so on, show the "CC BY-SA" icon in the each of all pages of the document.
 
