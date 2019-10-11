@@ -15,7 +15,7 @@ Here documents (specifications, fixed bugs lists and etc.) about the [extClark](
 ドキュメントの品質を保ち、なおかつソースコードをより柔軟に改変できるようにするためです。
 <BR>
 The reason why the [repository for the documents](https://github.com/Kimitsuna-Goblin/extClark-Doc/) is separated from the [main repository](https://github.com/Kimitsuna-Goblin/extClark/) of the tool
-is to separate the licenses for the sources and for the documents in order to keep qualities of the documents and to make more flexible to update sources.
+is to separate the licenses for the sources and for the documents in order to keep qualities of the documents and to make updating sources more flexible.
 
 ## 内容構成 - Contents
 
