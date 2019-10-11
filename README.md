@@ -6,9 +6,9 @@ This repository contains published documents about the [extClark](https://github
 
 ## 説明 - Description
 
-ここでは、[小児薬用量計算ツール（拡張Clark式）](https://github.com/Kimitsuna-Goblin/extClark/) のドキュメント(仕様書、解決済み不具合一覧等)を公開しています。
+ここでは、[小児薬用量計算ツール（拡張Clark式）](https://github.com/Kimitsuna-Goblin/extClark/) のドキュメント(仕様書、解決済み不具合一覧等)を提供しています。
 <BR>
-Here documents (specifications, fixed bugs lists and etc.) about the [extClark](https://github.com/Kimitsuna-Goblin/extClark/) tool are published.
+Here documents (specifications, fixed bugs lists and etc.) about the [extClark](https://github.com/Kimitsuna-Goblin/extClark/) tool are provided.
 <BR>
 <BR>
 [ツール本体のリポジトリ](https://github.com/Kimitsuna-Goblin/extClark/)と異なる、[ドキュメント専用のリポジトリ](https://github.com/Kimitsuna-Goblin/extClark-Doc/)を作成している理由は、ソースとドキュメントのライセンス管理を分けることで、
