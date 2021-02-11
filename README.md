@@ -109,7 +109,7 @@ please write your copyright on the document.
 
 If you have commited a document file which is out of rules above, correct it as soon as possible.
 
-## ライセンス - Licence
+## ライセンス - License
 
 [CC BY-SA 4.0](https://github.com/Kimitsuna-Goblin/extClark-Doc/blob/master/LICENSE)
 
